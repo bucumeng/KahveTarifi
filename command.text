@@ -1,0 +1,3 @@
+virtualenv venv --> sanal sunucuyu başlatma
+
+.\venv\Scripts\Activate.ps1 --> sanal sunucuyu aktifleştirme

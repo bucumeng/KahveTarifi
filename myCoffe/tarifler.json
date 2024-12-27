@@ -1,0 +1,362 @@
+[
+    {
+      "name": "Türk Kahvesi",
+      "ingredients": [
+        "1 tatlı kaşığı Türk kahvesi",
+        "1 su bardağı su",
+        "Şeker (isteğe bağlı)"
+      ],
+      "instructions": [
+        "Kahveyi ve suyu cezveye ekleyin.",
+        "Şeker ekleyecekseniz, şekeri de ekleyin.",
+        "Orta ateşte karıştırmadan pişirin.",
+        "Kahve kaynamaya başlayınca köpüklenmeye dikkat edin. Köpüğü fincana alın.",
+        "Kahve kaynadığında ocaktan alın ve bir iki kez karıştırarak fincana dökün.",
+        "Sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Espresso",
+      "ingredients": [
+        "18-20 gram espresso kahvesi",
+        "30 ml su"
+      ],
+      "instructions": [
+        "Espresso makinesi veya moka potu kullanarak suyu kaynatın ve kahve ile birleşmesini sağlayın.",
+        "Kahve çekirdeklerinin taze öğütülmüş olması önemlidir.",
+        "25-30 saniye içinde yoğun bir espresso elde etmelisiniz."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Americano",
+      "ingredients": [
+        "1 shot espresso",
+        "120-150 ml sıcak su"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Üzerine sıcak su ekleyin.",
+        "Karıştırın ve sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Cappuccino",
+      "ingredients": [
+        "1 shot espresso",
+        "150 ml süt",
+        "50 ml süt köpüğü",
+        "Kakao tozu (isteğe bağlı)"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Sütü buharda ısıtın ve köpürtün.",
+        "Köpüklü sütü espresso üzerine ekleyin.",
+        "Üzerine kakao serpip sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Latte",
+      "ingredients": [
+        "1 shot espresso",
+        "200 ml süt"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Sütü buharda ısıtın ve kremamsı bir kıvamda köpürtün.",
+        "Sütü espressoya dökün ve sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Macchiato",
+      "ingredients": [
+        "1 shot espresso",
+        "20 ml süt köpüğü"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Üzerine bir miktar süt köpüğü ekleyin.",
+        "Sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Flat White",
+      "ingredients": [
+        "1 shot espresso",
+        "150 ml süt"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Sütü buharda ısıtın ve hafif bir köpük oluşturun.",
+        "Sütü espressoya dökün, sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Mocha",
+      "ingredients": [
+        "1 shot espresso",
+        "150 ml süt",
+        "20 ml çikolata şurubu",
+        "Süt köpüğü"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Çikolata şurubunu sütle karıştırın ve ısıtın.",
+        "Çikolatalı sütü espressoya dökün.",
+        "Üzerine süt köpüğü ekleyin ve sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Cortado",
+      "ingredients": [
+        "1 shot espresso",
+        "20-30 ml sıcak süt"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Sütü ısıtın ve espressoya ekleyin.",
+        "Sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Affogato",
+      "ingredients": [
+        "1 shot espresso",
+        "1 top vanilyalı dondurma"
+      ],
+      "instructions": [
+        "Vanilyalı dondurmayı bir fincana ekleyin.",
+        "Üzerine sıcak espressoyu dökün.",
+        "Sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Turkish Iced Coffee",
+      "ingredients": [
+        "1 tatlı kaşığı Türk kahvesi",
+        "1 su bardağı su",
+        "Şeker",
+        "Buz"
+      ],
+      "instructions": [
+        "Türk kahvesini, suyu ve şekeri cezvede pişirin.",
+        "Karışımı soğumaya bırakın.",
+        "Bir bardağa buz ekleyin ve kahveyi dökün.",
+        "Karıştırıp soğuk servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Nitro Coffee",
+      "ingredients": [
+        "Soğuk demleme kahve",
+        "Azot gazı"
+      ],
+      "instructions": [
+        "Soğuk demleme kahveyi hazırlayın.",
+        "Azot gazı ile infüze edin.",
+        "Kremamsı kıvama geldikten sonra soğuk servis yapın."
+      ],
+      "duration": "15 dakika",
+      "difficulty": "Zor"
+    },
+    {
+      "name": "Café au Lait",
+      "ingredients": [
+        "1 shot filtre kahve",
+        "150 ml sıcak süt"
+      ],
+      "instructions": [
+        "Filtre kahveyi hazırlayın.",
+        "Sütü ısıtın.",
+        "Filtre kahve ve sütü eşit oranda karıştırarak sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Irish Coffee",
+      "ingredients": [
+        "1 shot sıcak kahve",
+        "40 ml İrlanda viskisi",
+        "1 çay kaşığı şeker",
+        "Krema"
+      ],
+      "instructions": [
+        "Kahveyi hazırlayın ve şekerle karıştırın.",
+        "Viskisini ekleyin.",
+        "Üzerine taze kremayı ekleyin ve sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Cà Phê Sữa Đá",
+      "ingredients": [
+        "2 shot espresso",
+        "30 ml tatlandırılmış süt",
+        "Buz"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Tatlandırılmış sütle karıştırın.",
+        "Buzlu bardağa dökün ve karıştırarak soğuk servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Kaffee Wiener Art",
+      "ingredients": [
+        "1 shot kahve",
+        "1-2 yemek kaşığı çırpılmış krema",
+        "Kakao tozu"
+      ],
+      "instructions": [
+        "Kahveyi hazırlayın.",
+        "Çırpılmış kremayı ekleyin.",
+        "Kakao tozu ile süsleyerek sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Café de Olla",
+      "ingredients": [
+        "1 fincan kahve",
+        "1 çubuk tarçın",
+        "2-3 dilim şeker kamışı"
+      ],
+      "instructions": [
+        "Tarçın ve şeker kamışını kahve ile kaynatın.",
+        "Kahve hazır olduğunda, sıcak servis yapın."
+      ],
+      "duration": "15 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Café Bombón",
+      "ingredients": [
+        "1 shot espresso",
+        "1-2 yemek kaşığı yoğunlaştırılmış süt"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Üzerine yoğunlaştırılmış sütü ekleyin.",
+        "Karıştırıp tatlı bir kahve tadı için sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Ristretto",
+      "ingredients": [
+        "18-20 gram espresso kahvesi",
+        "15 ml su"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın ancak daha kısa sürede demlenmesini sağlayın.",
+        "Kısa süreli demlenen, yoğun ve güçlü bir kahve elde edilecektir."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Caffè Lungo",
+      "ingredients": [
+        "1 shot espresso",
+        "60-90 ml sıcak su"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Daha fazla su ekleyerek, daha hafif ve uzun bir kahve elde edin.",
+        "Sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Dalgona Coffee",
+      "ingredients": [
+        "2 yemek kaşığı instant kahve",
+        "2 yemek kaşığı şeker",
+        "2 yemek kaşığı sıcak su",
+        "150 ml süt"
+      ],
+      "instructions": [
+        "Instant kahve, şeker ve sıcak suyu bir kaba alın.",
+        "Bir mikserle karışımı 3-5 dakika çırpın, kıvamı yoğun ve kremamsı olmalı.",
+        "Sütü bir bardağa dökün ve üzerine çırpılmış kahve karışımını ekleyin.",
+        "Karıştırarak soğuk servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Vietnamese Egg Coffee",
+      "ingredients": [
+        "1 shot sıcak kahve",
+        "1 yumurta sarısı",
+        "2 yemek kaşığı şeker",
+        "50 ml süt"
+      ],
+      "instructions": [
+        "Kahveyi hazırlayın.",
+        "Yumurta sarısını şekerle çırpın.",
+        "Sütü ısıtın ve yumurta karışımına ekleyin.",
+        "Kahvenin üzerine dökün ve karıştırarak sıcak servis yapın."
+      ],
+      "duration": "10 dakika",
+      "difficulty": "Orta"
+    },
+    {
+      "name": "Café Cubano",
+      "ingredients": [
+        "1 shot espresso",
+        "1-2 yemek kaşığı şeker"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Kahve ile birlikte şekeri pişirin.",
+        "Karışımı tatlı ve yoğun bir kahve için karıştırarak sıcak servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    },
+    {
+      "name": "Caffè Freddo",
+      "ingredients": [
+        "1 shot espresso",
+        "Buz",
+        "Şeker (isteğe bağlı)"
+      ],
+      "instructions": [
+        "Espressoyu hazırlayın.",
+        "Buzlu bir bardağa dökün.",
+        "Şeker ekleyebilirsiniz.",
+        "Soğuk servis yapın."
+      ],
+      "duration": "5 dakika",
+      "difficulty": "Kolay"
+    }
+]
